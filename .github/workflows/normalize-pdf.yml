@@ -30,6 +30,8 @@ jobs:
           SRC="book/AI_Systems_Bottleneck_KR.pdf"
           TMP="book/AI_Systems_Bottleneck_KR.normalized.pdf"
 
+          # Rewrites LibreOffice PDF 1.7 output as a simpler PDF 1.4 file.
+          # This keeps the visual content while reducing embedded-viewer edge cases.
           gs \
             -sDEVICE=pdfwrite \
             -dCompatibilityLevel=1.4 \
