@@ -18,6 +18,14 @@
   <code>Korean Edition v1.1</code> · <code>Free PDF</code> · <code>79 pages</code> · <code>AI-assisted learning</code>
 </p>
 
+<p align="center">
+  <a href="book/AI_Systems_Bottleneck_KR.pdf">
+    <img src="assets/cover-ko.png" alt="AI SYSTEMS — 병목 현상 완전 정복 Korean Edition cover" width="380" />
+  </a>
+</p>
+
+<p align="center"><em>표지를 클릭하면 GitHub에서 바로 읽을 수 있습니다.</em></p>
+
 ---
 
 ## 왜 이 책을 만들었나
