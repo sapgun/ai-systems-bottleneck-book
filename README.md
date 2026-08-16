@@ -156,7 +156,7 @@ book/
 
 ## 피드백과 오타 제보
 
-책을 실제로 따라가다가 다음을 발견하면 [Issues](../../issues)를 이용해 주세요.
+책을 실제로 따라가다가 다음을 발견하면 [Issues](https://github.com/sapgun/ai-systems-bottleneck-book/issues)를 이용해 주세요.
 
 - 오타 또는 깨진 텍스트
 - 설명이 직관적이지 않은 부분
