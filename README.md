@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="book/AI_Systems_Bottleneck_KR.pdf"><strong>📖 Read Korean Edition</strong></a>
+  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/"><strong>📖 Read Korean Edition</strong></a>
   ·
-  <a href="book/AI_Systems_Bottleneck_KR.pdf?raw=1"><strong>⬇️ Download PDF</strong></a>
+  <a href="https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_KR.pdf"><strong>⬇️ Download PDF</strong></a>
   ·
   <a href="#english-edition"><strong>🌐 English Edition</strong></a>
 </p>
@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <a href="book/AI_Systems_Bottleneck_KR.pdf">
+  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/">
     <img src="assets/cover-ko.png" alt="AI SYSTEMS — 병목 현상 완전 정복 Korean Edition cover" width="380" />
   </a>
 </p>
 
-<p align="center"><em>표지를 클릭하면 GitHub에서 바로 읽을 수 있습니다.</em></p>
+<p align="center"><em>표지를 클릭하면 GitHub Pages 웹 리더에서 바로 읽을 수 있습니다.</em></p>
 
 ---
 
@@ -136,11 +136,11 @@ GPU, Local LLM, KV cache, TTFT, profiling, compiler/kernel을 필요한 깊이�
 
 ### 🇰🇷 Korean Edition
 
-- **Read on GitHub:** [AI_Systems_Bottleneck_KR.pdf](book/AI_Systems_Bottleneck_KR.pdf)
-- **Download PDF:** [Raw PDF](book/AI_Systems_Bottleneck_KR.pdf?raw=1)
+- **Read Online:** [GitHub Pages ebook reader](https://sapgun.github.io/ai-systems-bottleneck-book/reader/)
+- **Download PDF:** [AI_Systems_Bottleneck_KR.pdf](https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_KR.pdf)
 - Current version: **v1.1 — KR Final Lock**
 
-> GitHub의 PDF 미리보기가 느린 환경에서는 `Download PDF`를 사용하는 편이 안정적입니다.
+> GitHub 저장소의 내장 PDF 미리보기는 일부 환경에서 `Error loading PDF page number 1` 오류가 발생할 수 있습니다. 온라인 열람은 위의 GitHub Pages 웹 리더를 사용하세요.
 
 ---
 
