@@ -4,8 +4,6 @@
 
 ## Korean Edition
 
-Expected filename:
-
 ```text
 AI_Systems_Bottleneck_KR.pdf
 ```
@@ -14,12 +12,12 @@ Current public version: **v1.1 — KR Final Lock**
 
 ## English Edition
 
-Planned filename:
-
 ```text
 AI_Systems_Bottleneck_EN.pdf
 ```
 
-Status: **Native English Edition in progress**
+Status: **Native English Edition v1.0 — Visual Parity Lock, ready for publication**
 
-한국어판의 커리큘럼과 학습 철학을 source of truth로 사용하되, 영문판은 직역이 아니라 영어권 기술 독자를 위한 native edition으로 제작합니다.
+The English edition preserves the Korean edition's curriculum and learning philosophy, but is rewritten for natural technical English rather than translated line by line.
+
+Final layout target: **98 pages**, with the visual parity pass and image-fit QA completed before publication.
