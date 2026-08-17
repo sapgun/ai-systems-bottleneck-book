@@ -7,24 +7,39 @@
 </p>
 
 <p align="center">
-  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/"><strong>📖 Read Korean Edition</strong></a>
+  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/"><strong>🇰🇷 Read Korean</strong></a>
   ·
-  <a href="https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_KR.pdf"><strong>⬇️ Download PDF</strong></a>
+  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/en/"><strong>🇺🇸 Read English</strong></a>
   ·
-  <a href="#english-edition"><strong>🌐 English Edition</strong></a>
+  <a href="https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_KR.pdf"><strong>⬇️ KR PDF</strong></a>
+  ·
+  <a href="https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_EN.pdf"><strong>⬇️ EN PDF</strong></a>
 </p>
 
 <p align="center">
-  <code>Korean Edition v1.1</code> · <code>Free PDF</code> · <code>79 pages</code> · <code>AI-assisted learning</code>
+  <code>Korean Edition v1.1 · 79 pages</code> · <code>Native English Edition v1.0 · 98 pages</code> · <code>Free PDF</code>
 </p>
 
-<p align="center">
-  <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/">
-    <img src="assets/cover-ko.png" alt="AI SYSTEMS — 병목 현상 완전 정복 Korean Edition cover" width="380" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/">
+        <img src="assets/cover-ko.png" alt="AI SYSTEMS Korean Edition cover" width="300" />
+      </a>
+      <br />
+      <strong>🇰🇷 Korean Edition</strong>
+    </td>
+    <td align="center">
+      <a href="https://sapgun.github.io/ai-systems-bottleneck-book/reader/en/">
+        <img src="assets/cover-en.png" alt="AI SYSTEMS English Edition cover" width="300" />
+      </a>
+      <br />
+      <strong>🇺🇸 Native English Edition</strong>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><em>표지를 클릭하면 GitHub Pages 웹 리더에서 바로 읽을 수 있습니다.</em></p>
+<p align="center"><em>Click either cover to read that edition in the GitHub Pages web reader.</em></p>
 
 ---
 
@@ -139,26 +154,18 @@ GPU, Local LLM, KV cache, TTFT, profiling, compiler/kernel을 필요한 깊이�
 - **Read Online:** [GitHub Pages ebook reader](https://sapgun.github.io/ai-systems-bottleneck-book/reader/)
 - **Download PDF:** [AI_Systems_Bottleneck_KR.pdf](https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_KR.pdf)
 - Current version: **v1.1 — KR Final Lock**
+- Length: **79 pages**
 
-> GitHub 저장소의 내장 PDF 미리보기는 일부 환경에서 `Error loading PDF page number 1` 오류가 발생할 수 있습니다. 온라인 열람은 위의 GitHub Pages 웹 리더를 사용하세요.
+### 🇺🇸 Native English Edition
 
----
+- **Read Online:** [English GitHub Pages reader](https://sapgun.github.io/ai-systems-bottleneck-book/reader/en/)
+- **Download PDF:** [AI_Systems_Bottleneck_EN.pdf](https://github.com/sapgun/ai-systems-bottleneck-book/raw/refs/heads/main/book/AI_Systems_Bottleneck_EN.pdf)
+- Current version: **v1.0 — Visual Parity Lock**
+- Length: **98 pages**
 
-## English Edition
+The English edition is not a line-by-line translation. It preserves the same curriculum and systems-reasoning philosophy while rewriting the material for natural technical English.
 
-<a id="english-edition"></a>
-
-**Native English Edition — in progress.**
-
-한국어판을 단순 직역하지 않고, 동일한 curriculum과 학습 철학을 유지하면서 영어권 기술 독자가 자연스럽게 읽을 수 있도록 별도 에디션으로 제작할 예정입니다.
-
-완성 후 같은 저장소에서 제공됩니다.
-
-```text
-book/
-├── AI_Systems_Bottleneck_KR.pdf
-└── AI_Systems_Bottleneck_EN.pdf   ← upcoming
-```
+> GitHub's built-in PDF preview may fail in some environments. Use the GitHub Pages readers above for online reading.
 
 ---
 
@@ -194,10 +201,16 @@ ai-systems-bottleneck-book/
 ├── assets/
 │   ├── readme-banner.svg
 │   ├── cover-ko.png
-│   └── previews/
+│   └── cover-en.png
+│
+├── reader/
+│   ├── index.html
+│   └── en/
+│       └── index.html
 │
 └── .github/
-    └── ISSUE_TEMPLATE/
+    ├── ISSUE_TEMPLATE/
+    └── workflows/
 ```
 
 ---
