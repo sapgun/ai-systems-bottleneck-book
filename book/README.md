@@ -16,8 +16,8 @@ Current public version: **v1.1 — KR Final Lock**
 AI_Systems_Bottleneck_EN.pdf
 ```
 
-Status: **Native English Edition v1.0 — Visual Parity Lock, ready for publication**
+Current public version: **v1.0 — Native English Edition · Visual Parity Lock**
 
 The English edition preserves the Korean edition's curriculum and learning philosophy, but is rewritten for natural technical English rather than translated line by line.
 
-Final layout target: **98 pages**, with the visual parity pass and image-fit QA completed before publication.
+Final layout: **98 pages**. Visual parity pass, image-fit QA, and publication checks completed.
