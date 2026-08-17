@@ -9,7 +9,8 @@
 - Visual Parity Pass로 핵심 시각자료 보강
 - 이미지 잘림 방지를 위한 본문 폭 재조정 및 재검수
 - 최종 레이아웃: **98 pages**
-- GitHub Pages English reader 경로 준비
+- `book/AI_Systems_Bottleneck_EN.pdf` 공개
+- GitHub Pages English reader 및 KR ↔ EN 전환 경로 공개
 
 ## v1.1 — KR Final Lock
 
